@@ -29,6 +29,7 @@ The bar chart shows regional disparities in the number of events across Africa. 
 Random forest is a powerful capture of complex and non-linear relationships between features, which is especially helpful when the relationship between the conflict types. Additionally, it can help with feature importance by identifying factors most influential in predicting conflict types. Most importantly, it aids with multiclass flexibility, which benefits this classification problem with multiple conflict types. Overall Accuracy: 95.03%
 The model achieves a high overall accuracy, correctly classifying 95% of the events in the dataset.
 
-Conclusion & Recommendation
+#Conclusion & Recommendation
+
 The Random Forest model performs exceptionally well in classifying political violence events, especially for "Strategic Developments," "Violence against Civilians," and "Protests" (all with perfect scores). While the model is highly accurate, it shows slightly lower performance in identifying "Battles," which could benefit from further fine-tuning
 
