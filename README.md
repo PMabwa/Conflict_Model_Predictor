@@ -22,6 +22,9 @@ The ACLED (Armed Conflict Location & Event Data) dataset above provides detailed
 
 ![image](https://github.com/user-attachments/assets/51ffcbe0-8698-4da6-8dc2-efffe5a35e3a)
 
+![image](https://github.com/user-attachments/assets/b94763e5-1e35-4a7e-9b1d-cc142e4ccf61)
+
+
 Insights
 The bar chart shows regional disparities in the number of events across Africa. Eastern Africa has the highest count, nearing 120,000, indicating the most activity, followed by Western and Northern Africa with around 80,000 events each. Middle Africa shows moderate activity with just over 60,000 events, while Southern Africa has the lowest at approximately 40,000. This suggests Eastern Africa requires more focus, while Southern Africa might be under-represented or less active.
 ![image](https://github.com/user-attachments/assets/cd5e3409-32ee-4780-ae85-8badc0f9aedc)
